@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341819284021",
+    "firebase_url": "https://week8lab-dd789-default-rtdb.firebaseio.com",
+    "project_id": "week8lab-dd789",
+    "storage_bucket": "week8lab-dd789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341819284021:android:2510f37fb0a0dac1fd6f7c",
+        "android_client_info": {
+          "package_name": "com.example.movielibraryweek5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341819284021-nsh48vvtgo0mia84445s359iusngnvt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHNY6LQDhTsbUeBj4fnh6uxdCyBaxt4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341819284021-nsh48vvtgo0mia84445s359iusngnvt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
